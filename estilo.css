@@ -1,0 +1,152 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(29, 26, 26);
+       
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a{
+    text-decoration: none;
+}
+
+h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.logo{
+    margin-left: 30px;
+    margin-top: 10px;
+    float: left;
+}
+.navbar{
+   height: 100px;
+  }
+.navbar a{
+    padding-right: 50px;
+}
+
+#submenu{
+    margin-top: 12px;
+   }
+
+#submenu a{
+    text-decoration:none;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    font-family: sans-serif;      
+    
+}
+
+#tituloContato{
+    float: inherit;
+    margin-top: -300px;
+    margin-right:1000px ;
+    font-size: 50px;
+        
+    }
+
+#button{
+    margin-top: -300px;
+    margin-right: 1000px;
+    float:inherit;
+    color: rgb(21, 22, 22);
+   border-color: rgb(21, 22, 22);
+   box-shadow: none;
+}
+.noticiaContato{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.contato{
+    width: 100%;
+    margin-bottom: 50px;
+    text-align: center;
+    }
+.a{
+   
+    margin-left: 10px;
+    padding: 10px;
+    float: left;
+    box-sizing: border-box;
+    }
+.b{
+   
+    margin-right: 750px;
+    margin-left: 450px;
+    padding: 10px;
+   
+}
+
+.c{
+   
+    margin-right:10px;
+    margin-top: -295px;
+    float: right;
+    padding: 10px;
+}
+
+
+#d{
+    margin-left: 30px;
+    float: left;
+    position: relative;
+}
+
+.news{
+    margin-top: 300px;
+}
+
+#e{
+    margin-left: 200px;
+    float: left;
+    position: relative;
+}
+
+#f{
+   margin-left: 800px;
+   position: relative;
+   padding-top: 2px;
+}
+
+#g{
+    margin-top: -100px;
+    margin-right: 90px;
+    float: right;
+    position: relative;
+}
+
+.rodape{
+    background-color:rgb(214, 208, 208);
+    max-height: 300px;
+    max-width: 100%;
+    
+}
+
+.rodape ul li  {
+    list-style: none;}
+
+
+.final{
+    margin-top: 150px;
+    text-align: center;
+}
+
+#botao{
+    margin-bottom: 20px;
+    padding: 15px 40px;
+    background-color: rgb(214, 208, 208);
+    border-style: solid, 1px, gray;
+    text-align: left;
+    }
+
